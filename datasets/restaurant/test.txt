@@ -1,0 +1,643 @@
+0	2	1	yum !
+1	2	1	serves really good sushi .
+2	2	1	green tea creme brulee is a must !
+3	2	1	do n't leave the restaurant without it .
+4	4	1	the entire staff was extremely accomodating and tended to my every need .
+5	4	0	snotty attitude
+6	4	0	– we were treated very rudely here one time for breakfast .
+7	4	0	the owner is belligerent to guests that have a complaint .
+8	2	1	good food !
+9	2	1	this is a great place to get a delicious meal .
+10	4	1	we never had to wait more than 5 minutes .
+11	4	1	the staff is pretty friendly .
+12	2	1	the onion rings are great !
+13	2	1	they are not greasy or anything .
+14	2	0	– i was highly disappointed in the food at pagoda .
+15	2	0	the lemon chicken tasted like sticky sweet donuts and the honey walnut prawns , the few they actually give you ..... were not good .
+16	4	1	worst service i ever had
+17	4	0	everyone that sat in the back outside agreed that it was the worst service we had ever received .
+18	4	0	our waiter was non-existent and after our food finally arrived over an hour after we ordered , we were not given any water or utensils .
+19	4	0	i complained to the manager , but he was not even apologetic .
+20	2	1	fabulous italian food !
+21	2	1	the food was great !
+22	2	1	it 's * very * reasonably priced , esp for the quality of the food .
+23	2	1	i had the kafta plate and it was perfect .
+24	2	1	finally a meal that you will remember for a long time !
+25	2	1	caution - its real food for people who love the best .
+26	2	0	i may not be a sushi guru but i can tell you that the food here is just okay and that there is not much else to it .
+27	2	0	rice is too dry , tuna was n't so fresh either .
+28	2	0	nothing really came across as outstanding .
+29	2	1	i have eaten here three times and have found the quality and variety of the fish to be excellent .
+30	4	0	the service ranges from mediocre to offensive .
+31	4	0	on a recent trip , our waiter was extremely dismissive , while no less than three staff members waited hand-and-foot on a pair of japanese girls seated nearby .
+32	4	0	we were then charged for their most expensive sake ( $ 20+ per serving ) when we in fact drank a sake of less than half that price .
+33	2	1	they pay such detail to everything from miso soup to complex rolls .
+34	2	1	the sashimi was the freshest and most tender i have ever tasted .
+35	2	1	their apps are all delicious .
+36	4	1	great service
+37	4	1	my service was stellar !
+38	4	1	the bus boy even spotted that my table was shaking a stabilized it for me .
+39	2	1	food was fine , with a some little-tastier-than-normal salsa .
+40	4	0	took forever to get our order taken , water refills were too much to ask for and the only time she was fast was when we asked for our bill when we could get her attention .
+41	2	0	the only problem is you really have to warm up the pizza before it 's edible , even when you order ahead .
+42	2	1	but once done , it 's not too much dough , not too much cheese , not too much sauce .
+43	2	1	best sushi in town .
+44	2	1	everything you want and more , very fresh .
+45	2	1	the best calamari in seattle !
+46	4	1	every time `` 0-sixtynine '' is called the bartender buys everyone drinks !
+47	3	1	definitely has one of the best jukebox 's i 've seen in a long long time .
+48	4	1	you need to watch your game , they will have it on for you .
+49	3	1	and the upstairs is a great place to hang out .
+50	2	1	the sushi here is delicious !
+51	2	1	they have a wide variety of fish and they even list which oceans they come from ; atlantic or pacific .
+52	2	1	i 've had the jellyfish , horse mackerel , blue fin tuna and the sake ikura roll among others , and they were all good .
+53	2	0	my only negative comment is that i wish the pieces were a little bigger .
+54	4	1	the service was courteous and attentive .
+55	2	0	my g/f and i both agreed the food was very mediocre especially considering the price .
+56	1	1	drinks were good .
+57	2	1	– i loved the pumpkin ravioli and the goat cheese gnocchi ( 5 big ones to a plate instead of 20 or so little gnocchis ) and my sister loved her filet mignon on top of spinach and mashed potatoes .
+58	3	1	the ambiance was a peaceful and relaxing break amongst all the kids running around in downtown disney .
+59	3	1	it was romantic - and even nice even with my sister , reminded me of italy , and had artwork and music that kept up the feeling of being in a mediterrean villa .
+60	2	1	best indian food in l.a .
+61	2	1	the chicken curry and chicken tikka masala are my favorite meat dishes .
+62	2	1	the chana masala ( garbanzo beans ) are also excellent .
+63	2	1	i think i have probably tried each item on their menu at least once it is all excellent .
+64	2	1	i can highly recommend their various saag and paneer and korma .
+65	4	1	i appreciate their delivery too .
+66	2	1	– i really enjoyed my meal here .
+67	2	1	i had yummy lamb korma , saag paneer , samosas , naan , etc .
+68	4	0	normally , places ask how hot you want it , but they did n't .
+69	2	0	i should have thought to bring it up but never expected the food to be that mild .
+70	2	1	the naan was some of the best i 've had and i really enjoyed the bhartha , not too tomatoey .
+71	2	1	even the chickpeas , which i normally find too dry , were good .
+72	4	1	and they packaged everything nicely so it did n't spill .
+73	3	1	i love the warm & cosy environment .
+74	2	1	i am never disappointed with there food .
+75	3	1	the atmosphere is great .
+76	4	1	always busy , but they are good at seating you promptly and have quick service .
+77	1	1	also have great margaritas !
+78	4	1	you can order to go if you have to get back to the office too !
+79	2	1	lebanese food ! yum !
+80	2	1	the food is simply unforgettable !
+81	2	1	the presentation of the food was an added bonus , it looked just as great as it tasted !
+82	2	1	my best friend had the chicken shawarma and she still raves about it being the best anywhere !
+83	2	1	what a tastly , flaky treat !
+84	2	1	holy hummus !
+85	2	1	dinners have always been excellent , in terms of food quality .
+86	2	1	the open sesame combo plate is a bargain for the heap of food given .
+87	2	1	the side of potatoes is to die for , as is the labne ( yogurt dip ) .
+88	2	1	also , they serve the best hummus in america , with a drizzle of fragrant olive oil ( which , i believe is the traditional way ) !
+89	4	0	there have been several occasions when we 've just not gotten some side dishes we 've ordered .
+90	1	1	great beer
+91	4	0	we waited over 30 minutes for our drinks and over 1 1/2 hours for our food .
+92	2	1	we ordered a selection of the small plates , and the shoe string onions , goat cheese pizza , grilled asparagus and fried brie with fruit were all very good .
+93	4	1	we did have the same waiter the second time , so maybe the service is spotty and our luck is good .
+94	3	1	sunday afternoons there is a band playing and it is lots of fun .
+95	1	1	seattle 's best winelist
+96	1	1	– ray 's ( suprisingly ) has the city 's best & most diverse wine list .
+97	4	1	the sommelier is fantastic , down-to-earth , & extremely knowlegable .
+98	1	1	i would go back for the wine experience alone .
+99	4	0	what may be interesting to most is the worst sevice/attitude comes from the owners of this establishment .
+100	2	1	– mioposto has a very creative & delicious pizza menu .
+101	1	1	the coffe is very good , too .
+102	3	1	great open and friendly ambience .
+103	3	1	this place is charming and relaxing .
+104	4	1	the servers behind the counter are always friendly and helpful .
+105	2	1	enjoyed the food
+106	2	1	food was good and cheap .
+107	2	1	i had the kafta plate and i enjoyed it .
+108	3	1	atmosphere was nice .
+109	4	0	service was kind of slow , our waitress took forever to give us our check even though it was n't that busy .
+110	2	1	– eggs , pancakes , potatoes , fresh fruit and yogurt -- everything they serve is delicious .
+111	2	1	great meal – the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect ! ! ! !
+112	4	1	plus , i am allergic to rice , and the waitstaff was unbelievably accomodating -- did n't even bat an eye !
+113	2	1	unbeatable sushi !
+114	2	1	two thumbs up !
+115	2	1	this is right up there with places in tokyo as far as the freshness is concerned .
+116	2	1	melt in your mouth nigiri and sashmi , and very tasty rolls too .
+117	2	1	be sure to try the oyster roll .
+118	2	1	– how to describe the best sushi in nyc : hmmmm , delicious , amazing , fantastic , suculent , perfect , nah , all of the above .
+119	2	1	the best chuwam mushi i have ever had .
+120	2	1	perfect on a cold day .
+121	2	1	the house special roll is really good .
+122	4	1	however , they do take your cellphone numbers so that you can go hang out somewhere else till they call you up on your cellphone .
+123	3	1	a cozy spot for 2
+124	2	1	brunch at murphy 's is to die for , my specialty ... egg white omelet , the food is always freshly prepared .
+125	2	1	save room for scrumptious desserts .
+126	2	1	love the enchiladas and chicken soup - and be sure to check out their specials .
+127	2	1	the cooks have been at the restaurant for years and cook family recipes .
+128	4	1	can get busy on fridays for a table but once seated , the service is so efficient you can be in and out of there quickly .
+129	4	0	well i guess it 's hard to be seated when one is invisible to the staff .
+130	4	0	we stood there for 10 minutes while employees walked back and forth ignoring us .
+131	4	0	finally , my wife stood face to face in front of one of the staff and she asked , `` are you waiting for a table ? ''
+132	4	0	once seated it took about 30 minutes to finally get the meal .
+133	2	0	the caesar salad i ordered had so much lemon i could n't eat it .
+134	4	1	it gets really busy , so get there on the early side so you can grab a seat , if you do have to wait , its not bad because the service is quick !
+135	3	1	check out the art on the walls , very colorful !
+136	2	1	– i have been eating at this place for over 8 years now and i have never had one bad meal .
+137	2	1	i highly recommend this place to all that want to try indain food for the first time .
+138	2	1	the lunch menu is an awesome deal !
+139	2	1	plenty of food , trust me .
+140	2	1	fresh ingrediants and super tasty .
+141	2	1	the place is the next best thing to my moms cooking .
+142	2	1	not only can the selection be innovative , but there 's a nice balance of traditional sushi as well .
+143	4	1	the nicest waiters in town .
+144	3	1	it 's unpretentious and underground .
+145	2	1	hands down , the best tuna i have ever had .
+146	2	1	try the chef 's choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty .
+147	2	0	i know many people have their favorite types of pizza and pizza places , but mioposto 's pizza lacks quality and good taste .
+148	2	0	to be honest , i 've had better frozen pizza .
+149	2	1	seafood plus
+150	2	1	the appetizer of oysters , lobster , crab ( small size ) made a perfect entre for my wife .
+151	2	1	seabass on lobster risotto was the best .
+152	2	1	caesar salad was superb .
+153	1	1	great bottle of wine .
+154	2	1	leave room for dessert .
+155	4	0	even then , the order was not correct and we were still waiting for a couple items .
+156	4	0	we had a very hard time getting the waitress ' attention and finally had to get up and go inside to speak to a manager .
+157	4	0	as it turns out the owner was seated right next to us and when he came over to check on our problems was very dismissive and offered a token 20 % discount on our bill .
+158	4	0	when the bill came , he only took the discount off the food and not the drinks .
+159	4	0	it was clear he didn ’ t really care .
+160	4	0	i waited for 10-15 minutes for service ordered a beer & was never served again .
+161	4	0	after sitting there with my empty glass for over 20 minutes i left .
+162	4	0	after sitting at the bar for over 20 minutes the bar keep had made only 2 drinks & kept telling us she 'd be right with us .
+163	4	0	we left without ever getting service .
+164	2	1	best crab cakes in town
+165	2	1	– thats a big statement considering i 've been pulling crab traps and making the cakes myself since i was about seven - but something about these little devils gets better every time .
+166	2	1	– love their pizza , especially the mushroom pizza .
+167	2	1	also love their caeser salad .
+168	4	0	prefer to order it and pick it up though because i do n't like the servers , one young woman in particular .
+169	4	0	she does n't make you feel welcome and treats you like an annoyance .
+170	4	0	but she is very friendly with certain people , making it even more annoying .
+171	4	0	management should really take notice and train their waitstaff and teach them some proper manners .
+172	2	1	great breakfast
+173	2	1	– this place is famous for their breakfast .
+174	2	1	i love breakfast here .
+175	2	1	their crab eggs benedict is addicting .
+176	2	1	best chinese food i have tasted in a long time
+177	3	1	you can easily hear him though so it was a pleasant sound and not overbearing .
+178	3	1	the ambiance of the restaurant was nice and good for fine dinning .
+179	3	1	not too fine thought that you feel uncomfortable and have to dress up .
+180	4	1	the staff was very nice and courteous and obviously chinese .
+181	4	1	first off , the food came fast and all together : ) i like that ... i hate the pretentiousness of things coming in one after the other .
+182	2	1	so about the prawns , they were fresh and had a slight crispiness about the batter ... soooo good ... the walnuts were cut in smaller pieces and very crunchy and tasty .
+183	2	1	yummy .
+184	2	1	best honey walnyt prawns that we have every tasted .
+185	2	1	the brocollis were so fresh and tasty .
+186	2	1	i would normally not finish the brocolli when i order these kinds of food but for the first time , every piece was as eventful as the first one ... the scallops and prawns was so fresh and nicely cooked .
+187	2	1	not chewy at all .
+188	2	1	for desert we had the mango ginger creme brulee ... oh la la yummy ! ! !
+189	2	1	melt in your mouth .
+190	2	0	chintzy portions
+191	4	0	we put out name down and although there were open tables we were told that it 'd be a 30 minute wait .
+192	4	0	we went back to the restaurant and low and behold , we were seated at one of the tables that was available 30 minutes ago ! !
+193	4	0	none that i can think of .
+194	4	0	we put in our order and although we ordered 4 appetizers , the food did n't arrive until 45 minutes later ... with our main course .
+195	4	0	um so now what are appetizers for ? ? ?
+196	4	0	oh i forgot to mention that they do n't have bread service .
+197	4	0	my wife also ordered a teapot of hot water ( she had a sore throat ) and i guess that since it was only water , it was n't a priority for them to actually bring it .
+198	4	0	in other words , if they are n't making $ $ off of you then you do n't rate high on their 'service scale ' .
+199	0	1	if i needed to name some they would include the location to the beach or golden gate park .
+200	0	1	its great if you spent the day there and did n't want to drive to eat .
+201	3	1	another plus is the open feel of the restaurant with glass walls on all sides .
+202	4	1	6pm on a sat before a broadway play and we were quickly seated and served .
+203	2	1	amazing spanish mackeral special appetizer and perfect box sushi ( that eel with avodcao -- um um um ) .
+204	2	1	their specialty rolls are impressive , though i ca n't remember what we had .
+205	1	1	great selection of sakes .
+206	2	1	green tea creme brulee gets better each time i have it .
+207	4	0	very poor customer service .
+208	4	0	as part of a small party of four , our food was dropped off without comment ;
+209	4	0	any further needs we may have had could not have been met since no one stopped by the table .
+210	4	0	when we finally were able to flag someone down , it was someone entirely different from the person who had dropped off the food , who was also not the same person who had taken our order .
+211	4	0	after one member of our party had been bumped repeatedly by a waitress , a polite request that he not be bumped sent the waitress into an abusive rant .
+212	4	0	a brief conversation with the manager at the end of the meal was the greatest disappointment -- to say we had been `` blown off '' would be an understatement .
+213	4	0	the manager continually interrupted with `` is there anything else i can do for you ? `` , a strange comment because she had hardly listened , let alone responded to our expression of disappointment at our experience .
+214	4	0	she promised to speak to the waitress who had flown off in a rage , but we could hardly take her promise seriously , seeing as she had n't bothered to get the waitresses name .
+215	4	0	in short , schooner or later could n't have cared less about our being at their establishment .
+216	2	1	you are with a hot date and he/she has an urge for sushi ... then this might be the place .
+217	4	1	great service .
+218	1	1	good sake selection .
+219	2	1	dungeness crabs here !
+220	2	1	– ray 's is the place to go for high quality seafood dinners .
+221	2	1	i love dungeness crabs and at ray 's you can get them served in about 6 different ways !
+222	2	1	we shared the family platter and i especially enjoyed the black cod in sake kasu .
+223	2	1	i ended the meal with the unusual dessert of a port and chocolate tasting .... yummy !
+224	4	1	and the service was simply spendid - quite a delight .
+225	2	1	great breakfast
+226	3	1	seriously , you ca n't go wrong , if it is unpretentious local fun you seek .
+227	2	1	oh , and the cheese fries are awesome !
+228	3	1	when i walked in , i was taken aback by their incredible wood decor .
+229	2	1	i picked the asparagus , which turned out to be incredible and perfectly prepared .
+230	2	1	the 9 oz steak came next and it tasted great , at least initially .
+231	2	1	the steak was done to my exact liking ( medium rare ) and was nice and juicy .
+232	2	0	though , one thing i realized later on was that the restaurant either used msg or a meat tenderizer on the steak .
+233	2	0	my mouth felt very dry afterwards and i had that signature ? msg ? taste lingering in my throat after i left the restaurant .
+234	2	1	they came in their own nifty take out box and with some homemade frosting ; very light and not-too-sweet .
+235	2	1	the desert was the perfect ending to an almost perfect dinner .
+236	4	1	but the servers were extremely attentive and very friendly .
+237	2	1	had many dishes but the best was the lobster 3 ways .
+238	2	1	most importantly , we were so excited about the food after seeing the very creative menu .
+239	2	0	for the amount of food we got the prices should have been lower .
+240	2	1	the pizza is delicious and the salads are fantastic .
+241	4	1	i 've always found the wait staff and , if you sit at the bar , the cooks very friendly .
+242	3	1	i also really enjoy the simplicity of the decor and intimate feeling of a small restaurant .
+243	2	1	we ’ re can ’ t say enough about their delicious gourmet pizza ’ s !
+244	2	1	you won ’ t be disappointed by their menu .
+245	2	1	the pizza ’ s are thin crust and the menu offers very creative combinations and toppings .
+246	2	1	you never feel icky and stuffed after you eat there .
+247	2	1	the pizza ’ s are light and scrumptious .
+248	2	1	try the pizza ensalata !
+249	2	1	absolutely delicious .
+250	2	1	the food is sinful .
+251	4	1	the staff was really friendly .
+252	3	1	the atmosphere was great .
+253	2	1	the specialty here is decadent pancakes , but i 've been back now four times , and i 've been wowed every time .
+254	2	1	nothing on the menu is less than amazing .
+255	2	1	good eats .
+256	2	0	maybe it is good for that one night once in a blue moon when the chefs decide to use fish that 's half-way decent .
+257	2	0	i have been here , spent tons of money on a chef special dinner and it was a major dissappointment .
+258	2	0	fancy pieces of exotic fish on a $ 100 dollar plate and not one was eatable .
+259	2	1	delicious
+260	3	1	– the atmosphere is great for any special occasion you might want to celebrate .
+261	2	1	the best dish are the honwy walnut prawns- just outstanding .
+262	4	1	the service is really attentive and charming .
+263	4	0	we waited for an hour to be seated .
+264	2	1	delicious ... !
+265	2	1	the food is fantastic , authentic , delicious and very , very affordable .
+266	3	1	the decor was beautiful and unique .
+267	4	1	our server was very professional and friendly .
+268	2	1	delectable
+269	2	1	everything , and i mean everything on the menu is delectable .
+270	4	1	the waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa .
+271	2	1	the sushi is as fresh as it comes ? you 'd think ocean was in their backyard , no joke !
+272	2	1	if you 're interested in good tasting ( without the fish taste or smell ) , large portions and creative sushi dishes this is your place ...
+273	2	1	big thick pepperoni
+274	2	1	– the pepperoni 's cut real thick -- yum .
+275	2	1	the pizza itself is not exactly the best i 've had ever , but still pretty good .
+276	3	1	sit in the balcony
+277	2	1	food was good and appetizing .
+278	2	1	the appetizer was interesting , but the creme brulee was very savory and delicious .
+279	3	1	indoor ambience was modern .
+280	3	1	if it 's nice outside , request for a table in the balcony .
+281	4	0	should check-up on us more frequently , do n't you think ?
+282	2	1	late night dinning with exeptional food .
+283	4	1	the service was exceptional - sometime there was a feeling that we were served by the army of friendly waiters .
+284	2	1	the food was very good , filet mignon was probably the best i 've ever try .
+285	3	1	groovy music made the dinner casual .
+286	3	1	the atmosphere is aspiring , and the decor is festive and amazing ..
+287	2	1	the catering is out of this world , and raouls chicken vegetable soup rocks my world ! ! !
+288	1	0	to start off , approximately 8-10 oz of orange juice will cost you $ 3 .
+289	1	0	they serve it in a tall , skinny hour-glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket .
+290	2	1	i should have just asked for the check when i saw that ; but their menu was so unique that i continued .
+291	2	0	the pancakes should be larger ( at least 8 '' ) to justify the expense even with the unique offerings .
+292	2	0	on my meal i had to send back my eggs for a simple request of breaking the yokes before cooking , and would have had to send them back again if i had n't rejected the meal all together .
+293	2	0	i rejected it because in the process of attempting to fix the eggs they broke something else in the dish and i was too frustrated to continue .
+294	0	1	ray 's is something of a seattle institution , but given its gorgeous sound views , i had suspected that the accolades were more due to the scenery than to the food and service .
+295	4	1	to start things off , our lovely server brooke was quickly on hand to take my drink order .
+296	2	1	my party of two was feeling particularly ambitious , and we splurged on the shilshole sampler ... a beautiful assortment of enormous white gulf prawns , smoked albacore tuna , ray 's fantastic manila clams seasoned with dill , scallops in a tasty soy dressing , and a tiny pile of dungeness crab atop a sublime butter sauce .
+297	2	1	for my entr & eacute ; e , i completely enjoyed the seared alaskan sea scallops complemented by chard , artichoke hearts , fennel , and pecorino toscano .
+298	2	1	the scallops are apparently cooked in a black olive butter which really makes them unique ( not to mention tasty ) .
+299	2	1	my friend enjoyed the grilled alaskan king salmon with delectable creamed washington russet potatoes and crisp green beans .
+300	2	1	i had a taste of all three items on her plate , and they were superb .
+301	0	1	oh yeah ... the view was good , too .
+302	2	1	great food .
+303	2	1	the pastas are incredible , the risottos ( particularly the sepia ) are fantastic and the braised rabbit is amazing .
+304	2	0	overpriced and not tasty
+305	2	0	the food here was mediocre at best .
+306	2	0	it was totally overpriced- fish and chips was about $ 15 ....
+307	2	1	tasty dog !
+308	2	1	an awesome organic dog , and a conscious eco friendly establishment .
+309	2	1	one of the best hot dogs i have ever eaten .
+310	2	1	but the best pork souvlaki i ever had is the main thing .
+311	2	1	super yummy pizza !
+312	3	1	i was visiting new york city with a friend and we discovered this really warm and inviting restaurant .
+313	2	1	i looove their eggplant pizza , as well as their pastas !
+314	2	1	we had half/half pizza , mine was eggplant and my friend had the buffalo and it was sooo huge for a small size pizza !
+315	3	0	the space kind of feels like an alice in wonderland setting , without it trying to be that .
+316	2	1	i paid just about $ 60 for a good meal , though : )
+317	1	1	great sake !
+318	2	1	reliable , fresh sushi
+319	2	1	the sashimi is always fresh and the rolls are innovative and delicious .
+320	4	1	have never had a problem with service save a missing rice once .
+321	4	0	delivery can be spot on or lacking depending on the weather and the day of the week .
+322	4	0	delivery guy sometimes get upset if you do n't tip more than 10 % .
+323	2	1	best . sushi . ever .
+324	2	1	this place has ruined me for neighborhood sushi .
+325	2	1	creative , consistent , fresh .
+326	2	1	excellent sashimi , and the millennium roll is beyond delicious .
+327	2	1	not only is the food
+328	3	1	great place to relax and enjoy your dinner
+329	3	1	there is something about their atmosphere that makes me come back nearly every week .
+330	2	1	good food : my favorite is the seafood spaghetti .
+331	2	1	excellent food for great prices
+332	4	1	the wait staff is very courteous and accomodating .
+333	2	1	i love their chicken pasta cant remember the name but is sooo good
+334	2	0	i think the pizza is so overrated and was under cooked .
+335	2	1	i was n't here for the pizza so i ca n't comment on that yet but what i had was very good .
+336	4	1	the service was quick and friendly .
+337	4	1	everyone was smiling so that made me feel welcome .
+338	3	1	i thought the restaurant was nice and clean .
+339	2	1	i ordered the vitello alla marsala and i was pretty impressed .
+340	2	1	the veal and the mushrooms were cooked perfectly .
+341	2	1	the potato balls were not dry at all ... in fact it was buttery .
+342	2	1	the food is always fresh ...
+343	2	0	chicken teriyaki had tomato or pimentos on top ? ?
+344	2	0	food was luke warm .
+345	4	0	the waitress was not attentive at all .
+346	2	0	i was looking for banana tempura for dessert and they dont have .
+347	2	0	i do not think dinner in manhattan should cost $ 400.00 where i am not swept off my feet .
+348	2	1	red dragon roll - my favorite thing to eat , of any food group - hands down
+349	2	1	just go to yamato and order the red dragon roll .
+350	2	1	if you do n't like it , i do n't know what to tell you .
+351	2	1	the seafood dynamite is also otherworldly .
+352	2	1	i 'm not even going to bother to describe it ; it speaks for itself .
+353	2	1	favorite sushi in nyc
+354	3	1	in the summer months , the back garden area is really nice .
+355	2	1	the rolls are creative and i have yet to find another sushi place that serves up more inventive yet delicious japanese food .
+356	2	1	the dancing , white river and millenium rolls are musts .
+357	2	0	gross food – wow-
+358	2	0	i ca n't remember the last time i had such gross food in new york .
+359	2	0	my quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor .
+360	2	0	and $ 11 for a plate of bland guacamole ?
+361	1	0	do n't get me started on the margaritas , either .
+362	1	0	mine tasted like the bartender had forgotten to add the tequila .
+363	2	1	great indian food !
+364	4	1	when i got there the place was packed but they made sure to seat me quickly .
+365	4	1	the staff is very good .
+366	1	1	love their drink menu .
+367	3	1	i highly recommend this beautiful place .
+368	4	1	they honored reservation on sunday afternoon very well .
+369	1	0	we were offered water for the table but were not told the voss bottles of water were $ 8 a piece .
+370	0	1	nice view of river and nyc .
+371	4	1	great survice
+372	2	1	mmmmmmmmmmmmmmm so delicious
+373	3	1	a beautifully designed dreamy egyptian restaurant that gets sceney at night .
+374	3	1	oh , and there 's hookah .
+375	4	1	raymond the bartender rocks !
+376	2	1	the omlette for brunch is great ...
+377	2	1	the spinach is fresh , definately not frozen ...
+378	2	1	quacamole at pacifico is yummy , as are the wings with chimmichuri .
+379	2	0	a weakness is the chicken in the salads .
+380	2	0	it 's just average , just shredded , no seasoning on it .
+381	2	0	also , i personally was n't a fan of the portobello and asparagus mole .
+382	2	1	this small astoria souvlaki spot makes what many consider the best gyros in new york .
+383	2	1	what really makes it shine is the food , which is aggressively seasoned with cyrpriot spices , and all made in-house ( even the gyro meat and sausages ) , and made of much higher quality ingredients that might otherwise be expected .
+384	2	1	all the various greek and cypriot dishes are excellent , but the gyro is the reason to come -- if you do n't eat one your trip was wasted .
+385	2	1	the veal was incredible last night .
+386	2	1	fresh , mind blowing flavors .
+387	2	1	delicious , creative and fun .
+388	3	1	it is so romantic .
+389	3	1	its dark , and cozy .. there is always jazz music playing when we go .
+390	3	1	most of the booths allow you to sit next to eachother without looking like 'that ' couple .
+391	2	1	the food is all shared so we get to order together and eat together .
+392	4	1	service was wonderful ;
+393	4	1	everyone was cheerfully cooperative and helpful .
+394	4	1	paul , the maitre d ' , was totally professional and always on top of things .
+395	1	0	the bar drinks were eh , ok to say the least .
+396	2	0	the stuff tilapia was horrid ... tasted like cardboard .
+397	2	0	we thought the dessert would be better , wrong !
+398	3	0	oh speaking of bathroom , the mens bathroom was disgusting .
+399	3	0	the floor was wet , the trash can filled with hand towels n all over the floor , no soap , and no hand towels left .
+400	2	1	however , our main course was wonderful .
+401	2	1	i had fish and my husband had the filet - both of which exceeded our expectations .
+402	4	0	when we inquired about ports - the waitress listed off several but did not know taste variations or cost .
+403	4	0	not what i would expect for the price and prestige of this location .
+404	3	1	short and sweet – seating is great : it 's romantic , cozy and private .
+405	3	1	the boths are not as small as some of the reviews make them out to look they 're perfect for 2 people .
+406	4	1	servers are all different , greg is my favorite .
+407	4	1	sometimes tables do n't understand his sense of humor but it 's refreshing to have a server who has personality , professionalism , and respects the privacy of your dinner .
+408	4	1	this is the first place i 've been that a runner remembers my order ... hope he likes his job because i have half a mind to steal him for my restaurant .
+409	4	1	i go out to eat and like my courses , servers are patient and never rush courses or force another drink .
+410	2	1	amazing fresh dogs but best of all endless toppings ! ! !
+411	2	1	this place had all the trimmings and i mean all .
+412	2	1	peppers , onions , relish , chilli , cheeses , you name it .
+413	2	1	amazing fun for hot dog lovers of all ages please do yourself a favor and check this place out ! ! ! !
+414	1	1	the have a great cocktail with citrus vodka and lemon and lime juice and mint leaves that is to die for !
+415	3	1	we were drawn into the belly dancing show that captivated the crowd .
+416	2	0	maggot in the food !
+417	2	0	nevertheless , i finished my plate , and that 's when i found a maggot in mushroom sauce at the bottom .
+418	4	0	when the bill came , nothing was comped , so i told the manager very politely that we were willing to pay for the wine , but i did n't think i should have to pay for food with a maggot in it .
+419	4	0	the manager finally said he would comp the two glasses of wine ( which cost less than the food ) , and made it seem like a big concession .
+420	4	0	we paid and left because we did n't feel like arguing any more .
+421	2	0	i have worked in restaurants and cook a lot , and there is no way a maggot should be able to get into well prepared food .
+422	4	0	for a restaurant with such a good reputation and that is usually so packed , there was no reason for such a lack of intelligent customer service .
+423	2	0	unhygienic
+424	2	0	i got hair in my food 2 times of then !
+425	2	1	the food is flavorful , plentiful and reasonably priced .
+426	3	1	the atmosphere is relaxed and casual .
+427	3	1	inexpensive , unassuming , great time !
+428	2	1	sushi experience was unbelievable with my fiance .
+429	2	1	good creative rolls !
+430	2	1	they have great rolls , the triple color and norwegetan rolls , are awesome and filling .
+431	2	1	one special roll and one regular roll is enough to fill you up , but save room for dessert !
+432	2	1	they have a delicious banana chocolate dessert , as well as a great green tea tempura .
+433	2	1	the appetizers are also delicious !
+434	2	1	amazing food .
+435	3	0	mazing interior .
+436	2	1	great food !
+437	2	1	i 've had my fair share of modern japanese and this spot delivers .
+438	3	0	the atmosphere was pretty nice but had a bit lacking , which it tries to make up for with a crazy scheme of mirrors .
+439	3	0	if you 're into being lost when you 're just five feet from your table then hey , that 's a good thing .
+440	2	1	indo chinese food , pretty good ...
+441	2	0	my mom originally introduced me to this place , but even she ( being indian ) feels the food can be somewhat over the top spicy and far too oily .
+442	2	0	i was speechless by the horrible food .
+443	2	0	i attended a holiday dinner at the restaurant , and the food was majorly disappointing .
+444	2	1	for 7 years they have put out the most tasty , most delicious food and kept it that way ...
+445	2	1	so delicious ! ! ! ! ! !
+446	2	1	hands down the best pizza on the planet .
+447	2	1	in about 12 minutes , the thing is gone .
+448	2	1	great hot dogs ..
+449	2	1	the hot dogs were juicy and tender inside and had plenty of crunch and snap on the outside .
+450	2	1	great toppings definitely a place you need to check out for late night munchies or a mid day boost !
+451	2	1	great taste
+452	2	1	great , original taste .
+453	2	0	for me dishes a little oily , but overall dining experience good .
+454	3	0	the only thing that strikes you is the decor ? ( not very pleasant ) .
+455	2	1	great food
+456	2	1	this place has great indian chinese food .
+457	2	1	the flavors are amazing and the value is phenomenal .
+458	3	0	be prepared to wait , because the place is pretty tiny .
+459	2	1	best indian chinese in the city , by far !
+460	1	1	the martinis are amazing and very fairly priced .
+461	4	1	the service is amazing , i 've had different waiters and they were all nice , which is a rare thing in nyc .
+462	3	1	the dj is awesome , i have been there for my birthday and a bunch of other times with friends and i keep going back .
+463	4	1	you can get a table without a reservation if you get there early i they do n't make you by bottles .
+464	4	1	which lets face it .... at times it 's a good thing .
+465	2	1	everything on the menu is great .
+466	2	0	but $ 500 for a dinner for two that did n't include wine ?
+467	2	1	look , the appetizers were really good .
+468	2	1	the entree was also very good .
+469	2	0	ca n't argue about that , but they are clearly over priced .
+470	3	1	yes , the place is classy and beautiful , but they most certainly target the uber whealthy not the common joe that wants to go all out every once in a while .
+471	2	0	which of course is not real kobe but wagyu beef .
+472	2	1	bison was quite excellent however .
+473	2	0	dessert : pure disaster .
+474	2	0	just not good at all .
+475	2	0	some pineapple covered in a glaze of some kind and some pear tart thing not impressive at all .
+476	2	0	if you are going for the food , it will not be worth it .
+477	4	0	you would think they would make up for it with service , sadly , no .
+478	4	0	service was just ok , it is not what you 'd expect for $ 500 .
+479	4	0	although we were told 10-15 minutes and it was more like 45 minutes .
+480	3	1	the place is beautiful !
+481	4	1	the hostess was very pleasant .
+482	1	0	however , our $ 14 drinks were were horrible !
+483	4	0	once we finally got a table , despite indicating we wanted an alla carte menu we were pushed into a table that was only price fixed !
+484	4	0	for each course we waited over 1/2 hour to 45 minutes and were never offered a drink .
+485	4	0	we also asked for hooka six times and the waiter kept telling us one minute and never returning with the hooka .
+486	4	0	after the 4th time i asked again and the waiter than said after our dinner .
+487	4	0	we asked for beverages and never received them .
+488	4	0	we asked for sides which the waiter than admitted that he forgot to put in that part of our order .
+489	2	0	my chicken was inedible as there were so many fatty lumps which i had to keep spitting out into my napkin .
+490	2	0	i would not expect this for a $ 55 dinner .
+491	4	0	by the time we finished our dinner we still had not received one beverage nor hooka !
+492	4	0	what we did do was waste 3 hours being trapped in a table waiting and waiting for food and drinks and hooka .. some of which we never received !
+493	4	0	the only beverage we did receive was water in dirty glasses !
+494	4	0	to top it all off .. the main reason we came to your restaurant was for the belly dancers and missed the first show as we were not seated yet and the 2nd belly dancer only danced at two tables in the back of the restaurant and never made it around to the other half of the restaurant .
+495	2	0	by the time we left our wallets were empy and so were our stomachs and we missed the show we were supposed to see following our dinner , which would have been acceptable if we got to enjoy the experience of good food and belly dancers !
+496	2	0	if it seemed possible to do so while there i would have fought my bill since my dinner portion of my meal was inedible !
+497	4	0	my husbands birthday and my sons was not as it was intended ... and we drove two hours to spend too much money to be treated terribly !
+498	4	1	at first we were a little taken aback , as this seemed to present a problem , although the restaurant looked fairly empty , but they hastily put the table together for us .
+499	1	0	there was no tap beer that evening , which was a disappointment .
+500	1	0	not much of a selection of bottled beer either , we went with brahma .
+501	2	0	i believe there were 2 shrimp in the `` salt encrusted shrimp '' appetizer .
+502	4	0	she replied `` well it would be more convenient for us if you ordered now , since you are a larger party , and it might get crowded . ''
+503	2	1	i had the thai style fried sea bass ... which was very good .
+504	2	1	i heard the lobster roll was excellent .
+505	4	0	they seemed to continue to rush us along , taking plates without asking if we were done ( my sister still had her fork in hand ) .
+506	4	0	service not the friendliest to our `` large party '' !
+507	2	1	great indian food
+508	2	1	food was amazing - i love indian food and eat it quite regularly , but i can say this is one of the best i 've had .
+509	4	0	also , waiters try to push more food on you , like suggest things as if they are complimentary when they actually cost $ .
+510	4	0	i do n't appreciate places or people that try to drive up the bill without the patron 's knowledge so that was a huge turnoff ( more than the price ) .
+511	2	1	but if you 're prepared to spend some $ and remember to ask if something they offer is complimentary , then this is the place to go for indian food
+512	4	0	for starters they delivered us someone else 's order .
+513	2	0	however , once i received my predictably mediocre order of what dokebi thinks passes as korean fair , ( sometimes you have to settle when it 's your only option ) , i got through about half my kimchee before i found a piece of random lettuce accompanied by a far more disgusting , slimy , clearly bad piece of fish skin .
+514	4	0	none was made so i hung up .
+515	2	0	less than three minutes passed before i found myself doubled over the toilet .
+516	2	0	eat at your own risk .
+517	3	1	gorgeous place ideal for a romantic dinner
+518	4	1	the service was spectacular as the waiter knew everything about the menu and his recommendations were amazing !
+519	4	0	the dishes came out around 5 minutes apart .
+520	2	0	too bad i had paid an extra $ 2 for the stone bowl .
+521	2	0	the nakgi-bokum was horrible .
+522	2	0	easily the worst stir-fried squid i 've ever tasted .
+523	2	0	the sauce tasted more like chinese fast food than decent korean .
+524	4	0	the real problem i had with this place was the complete lack of service .
+525	4	0	she just nodded and walked off .
+526	4	0	as to my comment about the food , no apology or acknowledgment was made .
+527	2	0	my wife had barely touched that mess of a dish .
+528	4	0	we were charged full price .
+529	2	1	the wife had the risotto which was amazing .
+530	2	1	the farro salad and the mashed yukon potatoes were also extremely tasty .
+531	2	1	i love margherita pizza – i looove east village pizza
+532	2	1	the crust has a great bite and a good chew , the sauce is light with a nice acidity to it , the salt from the cheese is great , really heightens the flavor of all the other components .
+533	2	1	personally i like the margherita pizza better , but they are all good .
+534	3	1	possibly the most romantic restaurant in the city
+535	3	1	this is undoubtedly my favorite modern japanese brasserie ( that don ’ t serve sushi ) , and in my opinion , one of the most romantic restaurants in the city !
+536	3	1	if you ’ re planning to come here , make sure that your date is someone whom you really like since you ’ ll be ushered to private booths where there will be no people or food watching ( choose the ones on the ground level that have glass ceilings so you may see the stars in the sky ! ) .
+537	2	1	my party had the bbe $ 29 fixe prix menu , which was such a wonderful deal since it also came with a flight of sake !
+538	2	1	we started off with a delightful sashimi amuse bouche .
+539	2	1	i picked the grilled black cod as my entree , which i absolutely devoured while someone commented that the grilled salmon dish was better .
+540	1	1	the sake ’ s complimented the courses very well and is successfully easing me into the sake world .
+541	3	1	i don ’ t usually visit the same establishment more than once , what more twice , but i ’ ll come to zenkichi anytime for a quiet , unhurried and memorable dinner .
+542	4	0	the service leaves much to be desired , from feeling like you are rushed the place your order , to being ignored the rest of the night .
+543	4	0	we paid a fixed pricce but got nothing ! !
+544	4	0	we never ate because by close to 2 in the monring we were not served and were too upset ad tired to start eating .
+545	2	1	great shabu shabu
+546	2	1	but for the shabu shabu , you wo n't find much better in ny .
+547	2	1	dokebi gives williamsburg the right one-two punch of classic korean food and fusion twists like pork belly tacos .
+548	2	1	the hot dogs are good , yes , but the reason to get over here is the fantastic pork croquette sandwich , perfect on its supermarket squishy bun .
+549	2	1	the food tasted very good .
+550	2	1	the family seafood entree was very good .
+551	2	1	the main entree was also very good .
+552	3	0	this place has totally weird decor , stairs going up with mirrored walls - i am surprised how no one yet broke their head or fall off the stairs - mirrored walls make you dizzy and delusional ...
+553	2	0	the concept of japanese tapas is newly created and clearly does n't work .
+554	2	0	the food they serve is not comforting , not appetizing and uncooked .
+555	2	1	good food
+556	3	1	over all it was a very nice romantic place .
+557	3	1	the atmosphere was great .
+558	3	1	regardless , we 'll be back and ca n't wait to visit in the summer to take advantage of the patio .
+559	4	0	lexicographers take note : a new and fascinating definition of rudeness is alive and flourishing right here in brooklyn .
+560	4	0	the servers at flatbush farm appear to have perfected that ghastly technique of making you feel guilty and ashamed for deigning to attract their attention .
+561	4	0	polite acknowledgement is out ;
+562	4	0	supercilious scorn is in .
+563	4	0	and how many times can you pick up the same perfectly aligned set of napkins , inspect them vapidly and plonk them down in exactly the same place instead of venturing a glance at people who are there to help you make the rent ?
+564	4	0	at $ 120 for two people , however , this in no way represents value , unless you 're looking to pay by the hour for passive-aggressive torture .
+565	4	1	we arrived and were seated immediately , which made us both happy .
+566	2	0	everything was going good until we got our meals .
+567	2	0	i took one look at the chicken and i was appalled .
+568	2	0	it was served with skin , over a bed of extremely undercooked spinach and mashed potatoes .
+569	2	0	i took one bite from the $ 24 salmon , and i have never , in the 17 years i have been going to restaurants tasted salmon as fishy , as dry , and as bland as the one in flatbush farms .
+570	4	0	at this point , the waitress comes over and asks us if everything was okay , i was literally so shocked that i was speechless and did n't say anything , and guess what , the waitress walked away .
+571	2	0	so , i switch with my boyfriend again to see if maybe i could stomach the meat and spinach again , but the spinach was so undercooked that i just could not bite through it .
+572	2	0	i could n't even enjoy the mashed potatoes because it was hidden completely under the chicken and spinach .
+573	2	0	so i decide to report back to the waitress because it was completely inedible .
+574	4	0	guess what , i waited for twenty minutes before she came over and when she finally did , she says , `` oh well , i wish you would have said something earlier '' no apology , nothing .
+575	4	0	after that she simply took our plates , walked away , came back another twenty minutes later with the bill and the chicken on it ! ! ! ! ! ! ! ! ! ! ! !
+576	4	0	no desert menu , no apology , nothing ! ! ! ! ! !
+577	4	0	this is where it really really gets bad : the manager said , there is absolutely nothing we can do , it 's a matter of taste that she did n't like it , and i can not comp it .
+578	4	0	again , no apology , no is there anything else i can get you , no can i get you a drink to make up for it , nothing ! ! ! !
+579	4	0	the level of rudeness was preposterous .
+580	4	0	this staff should be fired .
+581	2	1	cirspy crust margherita pizza
+582	2	1	it was really good pizza .
+583	2	1	the crust was imazingly cooked well and pizza was fully loaded : ) : ) : )
+584	3	1	it is quite a spectacular scene i 'll give them that .
+585	2	1	great hot dogs !
+586	2	1	though it 's been crowded most times i 've gone here , bark always delivers on their food .
+587	2	1	the hot dogs are top notch , and they 're slamwich is amazing !
+588	2	1	going to bark is always worth the train ride , and will make your tongue and belly very happy !
+589	2	0	only complaint is the pricing -- i believe it would be more reasonable to pay a dollar less on each item listed on the menu .
+590	2	1	but nonetheless -- great spot , great food .
+591	4	0	as bfc does n't take reservations you almost always have to wait by the bar - and be abused by the front of house staff until you are seated , which can be over an hour later !
+592	4	0	the frizzy retro girl ( with winged/ dame edna glasses ) will yell at you if you try to order a drink .
+593	4	0	i was almost amused by the fact that she was turning away customers at 9pm on a friday night because she `` had a bbq to go to '' that night - wtf ? ?
+594	4	0	i 'd be horrified if my staff were turning away customers so early and so rudely !
+595	4	0	there 's another girl who i ca n't describe , she is about 5 ' 6 '' with brown hair , who eavesdrops on your conversation and chimes in - except she only hears the last part of what you said , so her uninvited opinions are often out of context and nothing to do with what you 're * really * talking about .
+596	4	0	i 'm a friendly person , so i would n't mind had she not been so nasty and gotten so personal .
+597	4	0	again , i 'd be super upset if that were my employee .
+598	4	0	considering you will spend at least $ 60 a head , i expect better service .
+599	4	0	so , if you 're walking by and thinking about dining , you might want to see who 's going to be seating you first ...
+600	4	0	maitre-d- '' eat and get out ''
+601	1	1	while finishing our meals which included a high-end bottle of wine , our son 's fiance joined us for a glass of wine and dessert .
+602	4	0	this guy refused to seat her and she left , followed shortly by the four of us , but not before i told him that in my 40 years of world travel , including paris , that i had never seen such a display of bad behavior by a frontman in a restaurant .
+603	4	0	his response was smug , arrogant , and condescending , totally consistent with his deportment on display all evening .
+604	4	0	a word to the wise : you ca n't dine here and disturb the maitre-d 's sense of `` table turnover '' , as whacked as it is , or else .
+605	4	0	if you go here , do it on his off-night .
+606	2	1	best meal in a long time !
+607	2	1	mussles and calamari were superb saturday evening .
+608	2	1	i had the lamb special which was perfect .
+609	2	1	my father had the flank steak which was very good , and my mother had the swordfish .
+610	2	1	taking hot dogs to the next level
+611	2	1	at first glance this place seems a bit pricey for a hot dog joint , but at bark you do n't just get your average hot dog .
+612	2	1	here the hot dog is elevated to the level of a real entree with numerous variations available .
+613	3	1	great atmosphere
+614	4	0	poor service and management
+615	4	0	appetizers took nearly an hour .
+616	4	0	when the main course finally arrived ( another 45mins ) half of our order was missing .
+617	4	0	never got an explanation as to what was going on .
+618	4	0	the manager was rude and handled the situation extremely poorly .
+619	4	0	when we threatened to leave , we were offered a meager discount even though half the order was missing .
+620	4	0	on the way out , we heard of other guests complaining about similar issues .
+621	4	0	can ’ t believe how an expensive nyc restaurant can be so disrespectful to its clients .
+622	4	0	on our last visit , they skipped over our name on the list , leaving us waiting an extra hour for a table .
+623	4	0	mistakes happen , but they are usually accompanied by an apology , perhaps even a glass of wine ... but not the grunt that we received from the al di la staff .
+624	2	0	the bread was stale , the salad was overpriced and empty .
+625	4	0	so rude ! ! !
+626	4	0	the hostess was rude and i got a distinct feeling that they did not want to serve us .
+627	4	0	the only thing that my friend left out is that when we sat down at the bar the bartender disappeared .
+628	4	0	i asked for a menu and the same waitress looked at my like i was insane .
+629	4	0	i was shocked that my friends wanted to stay after the waitress said , `` can i help you '' and `` how many are in your party . ''
+630	4	0	the three of us standing in front of her should have been an indication of how many of us there were .
+631	4	0	shame on this place for the horrible rude staff and non-existent customer service .
+632	4	0	bad staff
+633	2	1	the food is good .
+634	3	1	the design of the space is good .
+635	4	0	but the service is horrid !
+636	4	0	i was there for brunch recently , and we were tag teamed by a waitress and a waiter .
+637	4	0	the waiter delivered our food while holding what appeared to be a plastic bag of garbage in one hand .
+638	4	0	i ca n't believe that it was , but please put the bag down before delivering food !
+639	4	0	the waitress came to check in on us every few minutes , and began to clear the plates while half of us were still eating ( a big pet peeve of mine that happens almost everywhere , so i try to ignore it ) .
+640	4	0	i could n't ignore the fact that she reach over the plate of one of my friends , who was in mid bite , to clear the table .
+641	4	0	she then put the check down without asking if we were done , and came to check on the bill every two minutes , even though we were one of three occupied tables .
+642	4	0	i wish i could like this place more , and i wish someone would retrain the staff .

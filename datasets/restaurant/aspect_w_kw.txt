@@ -1,0 +1,5 @@
+location street block river avenue
+drinks beverage wines margaritas sake
+food spicy sushi pizza taste
+ambience atmosphere room seating environment
+service tips manager waitress servers
