@@ -8,7 +8,7 @@ The code and data used for our EMNLP paper Weakly-Supervised Aspect-Based Sentim
 
 ## Datasets
 
-We collect in-domain corpus for embedding training. For evaluation, we use Restaurant and Laptop datasets in [Sem-Eval 2015](http://alt.qcri.org/semeval2015/task12/) and [Sem-Eval 2016]()http://alt.qcri.org/semeval2016/task5/. We preprocessed these datasets in this repository.
+We collect in-domain corpus for embedding training. For evaluation, we use Restaurant and Laptop datasets in [Sem-Eval 2015](http://alt.qcri.org/semeval2015/task12/) and [Sem-Eval 2016](http://alt.qcri.org/semeval2016/task5/). We preprocessed these datasets in this repository.
 
 ## Run the Code
 
