@@ -16,7 +16,7 @@ We collect in-domain corpus for embedding training. For evaluation, we use Resta
 ```
 bash run_jasen.sh
 ```
-This step runs the whole pipeline from embedding training, to neural network distillation and evaluation. The ``--dataset`` in the script is used to specify which prepared dataset (restaurant or laptop) to use. Each line starts with a parent node (with the root node being ROOT), and then followed by a ``tab``. The children nodes of this parent is appended and separated by ``space``. Generated embedding file is stored under ``${dataset}``.
+This step runs the whole pipeline from embedding training, to neural network distillation and model evaluation. The ``--dataset`` in the script is used to specify which prepared dataset (restaurant or laptop) to use. Each line starts with a parent node (with the root node being ROOT), and then followed by a ``tab``. The children nodes of this parent is appended and separated by ``space``. Generated embedding file is stored under ``${dataset}``.
 Prediction results for each dataset are generated at ``/datasets/${dataset}/prediction.txt``.
 
 ### Preparing your own dataset
