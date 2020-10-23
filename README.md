@@ -1,6 +1,6 @@
 # Weakly-Supervised Aspect-Based Sentiment Analysis via Joint Aspect-Sentiment Topic Embedding 
 
-The code and data used for our EMNLP paper Weakly-Supervised Aspect-Based Sentiment Analysis via Joint Aspect-Sentiment Topic Embedding.
+The code and data used for our EMNLP [paper](https://arxiv.org/abs/2010.06705) Weakly-Supervised Aspect-Based Sentiment Analysis via Joint Aspect-Sentiment Topic Embedding.
 
 ## Requirements
 
